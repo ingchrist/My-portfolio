@@ -102,6 +102,16 @@
         z-index: 0;
         
     }
+
+    @media screen and (max-with: 830px) {
+        .container{
+            flex-direction: column-reverse;
+        }
+        
+        .content {
+            align-items: center;
+        }
+    }
 }
 
 
