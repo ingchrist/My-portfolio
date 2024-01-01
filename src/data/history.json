@@ -1,30 +1,29 @@
 [
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "role": "Software Engineer",
+      "organisation": "Google",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "role": "UI Designer",
+      "organisation": "Mirosoft",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/microsoft.png"
     },
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "role": "SWE Intern",
+      "organisation": "Netflix",
+      "startDate": "Apr, 2020",
+      "endDate": "Jun, 2020",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
     }
   ]
