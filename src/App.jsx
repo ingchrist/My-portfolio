@@ -8,6 +8,7 @@ function App() {
             <Navbar />
             <Hero />
             <About />
+            <experience />
         </div>
     );
 }
