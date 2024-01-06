@@ -1,2 +1,2 @@
 # My-portfolio
-My personal projects and internships
+My personal projects and internships with certificates 
