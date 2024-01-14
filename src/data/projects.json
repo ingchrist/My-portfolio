@@ -2,7 +2,7 @@
   {
     "title": "Project A",
     "imageSrc": "projects/project.png",
-    "description": "Hosting tripvalue website on azure & Digital Ocean with CI/CD .",
+    "description": "Hosting tripvalue website on AZURE & Digital Ocean with CI/CD .",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
