@@ -1,10 +1,10 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "role": "Full-stack Engineer",
+    "organisation": "tripvalue",
+    "startDate": "June, 2023",
+    "endDate": "currently working with tripvalue organisation (startup)",
+    "experiences": ["Worked on the frontend and backend", "deployed the website to AZURE and Digital Ocean"],
     "imageSrc": "history/google.png"
   },
   {
