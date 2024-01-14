@@ -4,8 +4,8 @@
     "imageSrc": "projects/project.png",
     "description": "Hosting tripvalue website on AZURE & Digital Ocean with CI/CD .",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.trivalue.com.ng",
-    "source": "https://www.github.com"
+    "demo": "https://tripvalue.com.ng",
+    "source": "https://github.com/TripValue/trip-react"
   },
   {
     "title": "Project B",
