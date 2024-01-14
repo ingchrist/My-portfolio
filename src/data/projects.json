@@ -10,7 +10,7 @@
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": " building a custom E-Commerce website in React with Product Categories, Shopping Cart, and Checkout Page in React+JavaScript.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -18,7 +18,7 @@
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Still in development, nothing to show for now.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
