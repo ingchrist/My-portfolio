@@ -10,7 +10,7 @@
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
-    "description": " building a custom E-Commerce website in React with Product Categories, Shopping Cart, and Checkout Page in React+JavaScript.",
+    "description": "A custom E-Commerce website with Product Categories,Shopping Cart and Checkout Page.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
