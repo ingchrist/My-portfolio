@@ -4,7 +4,7 @@
     "imageSrc": "projects/project.png",
     "description": "Hosting tripvalue website on AZURE & Digital Ocean with CI/CD .",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://www.trivalue.com.ng",
     "source": "https://www.github.com"
   },
   {
