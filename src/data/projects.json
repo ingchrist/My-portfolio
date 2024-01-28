@@ -18,7 +18,7 @@
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
-    "description": "Still in development, nothing to show for now.",
+    "description": "trading-bot-coindcx.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
