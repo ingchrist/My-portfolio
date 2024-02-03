@@ -1,6 +1,6 @@
 FROM mhart/alpine-node
 
-WORKDIR /usr/src/app
+WORKDIR /mnt/d/doc ingchristiandjin/ALL-IN-ONE-VS-CODING/react-portfolio/My-portfolio
 
 COPY . .
 
