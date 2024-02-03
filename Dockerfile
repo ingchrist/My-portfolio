@@ -1,10 +1,12 @@
-FROM mhart/alpine-node
+FROM node:alpine-node
 
-WORKDIR /mnt/d/doc ingchristiandjin/ALL-IN-ONE-VS-CODING/react-portfolio/My-portfolio
+WORKDIR /usr/src/app
 
-COPY . .
+COPY package* .
 
 RUN npm install
+
+COPY . .
 
 EXPOSE 3000
 
