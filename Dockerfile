@@ -1,6 +1,6 @@
 FROM node:20
 
-WORKDIR /mnt/d/doc ingchristiandjin/ALL-IN-ONE-VS-CODING/react-portfolio/My-portfolio
+WORKDIR /app
 
 COPY package* .
 
