@@ -10,10 +10,10 @@
   {
     "title": "Project B",
     "imageSrc": "projects/project.png",
-    "description": "A custom E-Commerce website with Product,Shopping Cart,Checkout Page.",
+    "description": "building an AI-image generating web app like midjourney and Dall-E.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://main--ai-image-generation-like-midjourney.netlify.app",
+    "source": "https://github.com/ingchrist/Image-Generation-like-Midjourney-and-DALL-E-client-Clone"
   },
   {
     "title": "Project C",
