@@ -1,16 +1,19 @@
-FROM node:20
+FROM node:20 As Production
 
-WORKDIR /app
+ENV NODE_ENV=Production
 
-COPY package* .
+WORKDIR /usr/src/client
+
+COPY package.json . 
+COPY package-lock.json .
 
 RUN npm install
 
 COPY . .
 
+RUN npm run build
+
 EXPOSE 8000
 
-CMD [ "npm", "run", "dev" ]
-
-
+CMD [ "sh", "-c", "npm run dev:production" ]
 
