@@ -22,5 +22,14 @@
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://github.com/ingchrist/trading_bot"
+  },
+  {
+    "title": "Project D",
+    "imageSrc": "projects/project.png",
+    "description": "web-3-blockchain-web-app",
+    "skills": ["React", "Express", "Node", "solidity"],
+    "demo": "https://web-3-blockchain-web-app.netlify.app/",
+    "source": "https://github.com/ingchrist/web-3.0-blochain-web-app"
   }
+
 ]
