@@ -30,6 +30,18 @@
     "skills": ["React", "Express", "Node", "solidity"],
     "demo": "https://web-3-blockchain-web-app.netlify.app/",
     "source": "https://github.com/ingchrist/web-3.0-blochain-web-app"
-  }
+  },
+   {
+    "title": "Project E",
+    "imageSrc": "projects/project.png",
+    "description": "AI-powered architectural visualization SaaS",
+    "skills": ["React", "Express", "Node", "solidity"],
+    "demo": "https://web-3-blockchain-web-app.netlify.app/",
+    "source": "https://github.com/ingchrist/2d-to-3d-house-plan.git"
+
+   }
+   
+
+
 
 ]
